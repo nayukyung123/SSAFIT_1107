@@ -1,6 +1,7 @@
 # SSAFIT_1107
 
 📚 운동 추천 및 리뷰 서비스 데이터베이스 스키마 정의
+<img width="897" height="763" alt="Image" src="https://github.com/user-attachments/assets/52a563bf-d39b-40f6-bafd-dffe24f5bddd" />
 
 1. 개요 및 설계 원칙
 
